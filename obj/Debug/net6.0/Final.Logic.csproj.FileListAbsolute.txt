@@ -1,0 +1,14 @@
+C:\Users\migue\OneDrive\Documents\Final\Final.Logic\bin\Debug\net6.0\Final.Logic.exe
+C:\Users\migue\OneDrive\Documents\Final\Final.Logic\bin\Debug\net6.0\Final.Logic.deps.json
+C:\Users\migue\OneDrive\Documents\Final\Final.Logic\bin\Debug\net6.0\Final.Logic.runtimeconfig.json
+C:\Users\migue\OneDrive\Documents\Final\Final.Logic\bin\Debug\net6.0\Final.Logic.dll
+C:\Users\migue\OneDrive\Documents\Final\Final.Logic\bin\Debug\net6.0\Final.Logic.pdb
+C:\Users\migue\OneDrive\Documents\Final\Final.Logic\obj\Debug\net6.0\Final.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Documents\Final\Final.Logic\obj\Debug\net6.0\Final.Logic.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Documents\Final\Final.Logic\obj\Debug\net6.0\Final.Logic.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Documents\Final\Final.Logic\obj\Debug\net6.0\Final.Logic.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documents\Final\Final.Logic\obj\Debug\net6.0\Final.Logic.dll
+C:\Users\migue\OneDrive\Documents\Final\Final.Logic\obj\Debug\net6.0\refint\Final.Logic.dll
+C:\Users\migue\OneDrive\Documents\Final\Final.Logic\obj\Debug\net6.0\Final.Logic.pdb
+C:\Users\migue\OneDrive\Documents\Final\Final.Logic\obj\Debug\net6.0\Final.Logic.genruntimeconfig.cache
+C:\Users\migue\OneDrive\Documents\Final\Final.Logic\obj\Debug\net6.0\ref\Final.Logic.dll

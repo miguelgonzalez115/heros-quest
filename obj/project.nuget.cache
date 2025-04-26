@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IFvV8P66BqVWefMzsyWLTuaOD5439qlskCoSD3zqrOdCuflSOzgnb8+JCGRhHBY7NOHo1sOJD0W1KFwtbntQ2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\migue\\OneDrive\\Documents\\Final\\Final.Logic\\Final.Logic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
