@@ -3,7 +3,6 @@ Project Overview
 Hero's Quest is a text-based adventure game created as part of a college project. The game utilizes various data structures and algorithms such as graphs, binary search trees (BST), stacks, and queues to create an engaging and challenging experience for the player. The player takes on the role of a hero navigating a perilous world full of challenges, with the goal of reaching the exit room while maintaining health and completing various challenges.
 
 Features
-Character Creation: Customize the hero's name, stats (Strength, Agility, Intelligence), and inventory.
 
 Map Generation: A graph representing the world where rooms are connected by paths. The player must explore these rooms, solve challenges, and ultimately find the exit.
 
@@ -25,18 +24,8 @@ Time Complexity: O(log n)
 
 In a balanced binary search tree, searching for a node takes logarithmic time relative to the number of nodes in the tree. In the worst case, the BST is balanced, so the search operation will have a time complexity of O(log n).
 
-2. Graph Traversal (BFS/DFS)
-Operation: Traversing the map to find the exit.
 
-Description: The game uses a graph to represent the world, where rooms are nodes, and paths are edges. The player needs to traverse the graph to explore rooms and eventually reach the exit.
-
-Time Complexity: O(V + E)
-
-Where V is the number of vertices (rooms) and E is the number of edges (paths). Both BFS and DFS have a time complexity of O(V + E) because they visit every vertex and edge at most once.
-
-In the worst case, the traversal will visit all rooms and all connections between them.
-
-3. Queue Operations (Inventory Management)
+2. Queue Operations (Inventory Management)
 Operation: Managing the hero's inventory using a queue.
 
 Description: The hero’s inventory is managed using a queue (FIFO). When the player picks up an item, it is added to the queue. If the inventory exceeds its maximum size, the oldest item is discarded. This ensures that the inventory behaves like a queue.
